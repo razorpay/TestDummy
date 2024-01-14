@@ -32,10 +32,5 @@
             "tests/support/models"
         ]
     },
-    "minimum-stability": "dev",
-    "config": {
-        "allow-plugins": {
-            "kylekatarnls/update-helper": false
-        }
-    }
+    "minimum-stability": "dev"
 }
