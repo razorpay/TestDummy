@@ -7,6 +7,10 @@
         {
             "name": "Jeffrey Way",
             "email": "jeffrey@laracasts.com"
+        },
+        {
+            "name": "Team Razorpay",
+            "email": "support@razorpay.com"
         }
     ],
     "require": {
